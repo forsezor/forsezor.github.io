@@ -1876,24 +1876,3 @@ platform-osx .app-1q1i1E {
     min-width: 50px;
     max-width: 400px;
 }
-/*Adding a color scheme types*/
-/*more*/
-
-/* Violence Team */
-:root {
-    --color-brand: #111C2F;
-    --color-brand-darker: #0c1420;
-    --color-brand-lighter: #dedede;
-    --color-red: #ffca61;
-    --color-red-darker: #fcc439;
-    --color-orange: #ffca61;
-    --color-orange-darker: #fcc439;
-    --background-orange: rgba(255, 165, 0, 0.10);
-    --color-green: #b5b5b5;
-    --color-green-darker: #a5a5a5b7;
-    --color-gray: #72767d;
-    --color-gray-darker: #4f545c;
-    --shadow: 0 4px 8px rgba(0, 0, 0, .4), 0 0 4px rgba(0, 0, 0, .4);
-    --shadow-bottom: 0 1px 2px rgba(0, 0, 0, .9), 0 0 2px rgba(0, 0, 0, .9);
-    --user-background: #18181b;
-}
