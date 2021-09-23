@@ -4,6 +4,13 @@
  * @description NEVERMISS, NEVERLOSE, NEVERSCARE.
  * @author forsezor
 */
+/* USRBG */
+@import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/UsrBgs.css");
+/* SUPPORTERS */
+@import url('https://userMacieG.github.io/betterdiscord/supporters.css');
+/* FONT */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700;800&display=swap');
+
 body.powercord . header-QKLPzZ{background: unset!important;}
 
 /* Violence Team */
